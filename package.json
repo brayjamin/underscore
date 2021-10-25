@@ -1,0 +1,28 @@
+{
+  "name": "@brayjamin/underscore",
+  "version": "1.0.0",
+  "description": "Useful micro-methods for Grakkit - Credits to @harrix432 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayjamin/underscore.git"
+  },
+  "dependencies": {
+    "@grakkit/stdlib-paper": "1.0.14",
+    "@brayjamin/mantle": "1.0.3"
+  },
+  "keywords": [
+    "brayjamin",
+    "harrix432",
+    "grakkit"
+  ],
+  "author": "harrix432",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayjamin/underscore/issues"
+  },
+  "homepage": "https://github.com/brayjamin/underscore#readme"
+}
